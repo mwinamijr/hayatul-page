@@ -27,7 +27,7 @@ function Header() {
                 </ul>
               </li>
               <li><Link to="trainers.html">Afya</Link></li>
-              <li><Link to="/contact">Wasiliana nasi</Link></li>
+              <li><Link to="/contact-us">Wasiliana nasi</Link></li>
             </ul>
             <i className="bi bi-list mobile-nav-toggle"></i>
           </nav>

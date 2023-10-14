@@ -11,35 +11,35 @@ function Footer() {
             <div className="row">
 
               <div className="col-lg-3 col-md-6 footer-contact">
-                <h3>Mentor</h3>
+                <h3>HAYATUL</h3>
                 <p>
-                  A108 Adam Street <br />
-                  New York, NY 535022<br />
-                  United States <br /><br />
-                  <strong>Phone:</strong> +1 5589 55488 55<br />
-                  <strong>Email:</strong> info@example.com<br />
+                  S.L.P. 507 <br />
+                  Bonga - Babati TC<br />
+                  Manyara <br /><br />
+                  <strong>Simu:</strong> +255 788 030 052<br />
+                  <strong>Email:</strong> hayatulislamiyass@gmail.com<br />
                 </p>
               </div>
 
               <div className="col-lg-2 col-md-6 footer-links">
                 <h4>Useful Links</h4>
                 <ul>
-                  <li><i className="bx bx-chevron-right"></i> <Link to="#">Home</Link></li>
-                  <li><i className="bx bx-chevron-right"></i> <Link to="#">About us</Link></li>
-                  <li><i className="bx bx-chevron-right"></i> <Link to="#">Services</Link></li>
-                  <li><i className="bx bx-chevron-right"></i> <Link to="#">Terms of service</Link></li>
+                  <li><i className="bx bx-chevron-right"></i> <Link to="#">Nyumaani</Link></li>
+                  <li><i className="bx bx-chevron-right"></i> <Link to="#">Kuhusu sisi</Link></li>
+                  <li><i className="bx bx-chevron-right"></i> <Link to="#">Huduma zeu</Link></li>
+                  <li><i className="bx bx-chevron-right"></i> <Link to="#">Fomu za kujiunga</Link></li>
                   <li><i className="bx bx-chevron-right"></i> <Link to="#">Privacy policy</Link></li>
                 </ul>
               </div>
 
               <div className="col-lg-3 col-md-6 footer-links">
-                <h4>Our Services</h4>
+                <h4>Huduma zetu</h4>
                 <ul>
-                  <li><i className="bx bx-chevron-right"></i> <Link to="#">Web Design</Link></li>
-                  <li><i className="bx bx-chevron-right"></i> <Link to="#">Web Development</Link></li>
-                  <li><i className="bx bx-chevron-right"></i> <Link to="#">Product Management</Link></li>
-                  <li><i className="bx bx-chevron-right"></i> <Link to="#">Marketing</Link></li>
-                  <li><i className="bx bx-chevron-right"></i> <Link to="#">Graphic Design</Link></li>
+                  <li><i className="bx bx-chevron-right"></i> <Link to="#">HISMS</Link></li>
+                  <li><i className="bx bx-chevron-right"></i> <Link to="#">Jinsi ya kutumia HISMS</Link></li>
+                  <li><i className="bx bx-chevron-right"></i> <Link to="#">Huduma ya Afya</Link></li>
+                  <li><i className="bx bx-chevron-right"></i> <Link to="#">Matokeo</Link></li>
+                  <li><i className="bx bx-chevron-right"></i> <Link to="#">DEVELOPERS</Link></li>
                 </ul>
               </div>
 
@@ -57,7 +57,7 @@ function Footer() {
                     </div>
                   </div>
                   <div className="text-center">
-                    <button type="submit" className="btn btn-primary">Login</button>
+                    <button type="submit" className="btn get-started-btn">Login</button>
                   </div>
                 </form>
               </div>
