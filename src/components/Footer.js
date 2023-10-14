@@ -43,11 +43,22 @@ function Footer() {
                 </ul>
               </div>
 
-              <div className="col-lg-4 col-md-6 footer-newsletter">
-                <h4>Join Our Newsletter</h4>
-                <p>Tamen quem nulla quae legam multos aute sint culpa legam noster magna</p>
-                <form action="" method="post">
-                  <input type="email" name="email" /><input type="submit" value="Subscribe" />
+              <div className="col-lg-4 col-md-6 ">
+                <h4>Staff login</h4>
+                <form action="">
+                  <div className="row mb-3">
+                    <div className="col-sm-10">
+                      <input type="email" className="form-control" id="inputEmail" placeholder="email" />
+                    </div>
+                  </div>
+                  <div className="row mb-3">
+                    <div className="col-sm-10">
+                      <input type="password" className="form-control" id="inputPassword" placeholder="password" />
+                    </div>
+                  </div>
+                  <div className="text-center">
+                    <button type="submit" className="btn btn-primary">Login</button>
+                  </div>
                 </form>
               </div>
 
