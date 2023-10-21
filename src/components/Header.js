@@ -1,10 +1,9 @@
 import { Link } from "react-router-dom"
-import { Card } from "react-bootstrap"
 
 function Header() {
   return (
-    <Card className="container">
-      <header id="header" className="fixed-top">
+    <div className="container">
+      <header id="header" className="">
         <div className="container d-flex align-items-center">
 
           <h1 className="logo me-auto"><Link to="/">Hayatul Islamiya</Link></h1>
@@ -36,7 +35,7 @@ function Header() {
 
         </div>
       </header>
-    </Card>
+    </div>
   )
 }
 

@@ -17,6 +17,7 @@ function Footer() {
                   Bonga - Babati TC<br />
                   Manyara <br /><br />
                   <strong>Simu:</strong> +255 788 030 052<br />
+                  <strong>Simu:</strong> +255 752 506 523<br />
                   <strong>Email:</strong> hayatulislamiyass@gmail.com<br />
                 </p>
               </div>
@@ -24,7 +25,7 @@ function Footer() {
               <div className="col-lg-2 col-md-6 footer-links">
                 <h4>Useful Links</h4>
                 <ul>
-                  <li><i className="bx bx-chevron-right"></i> <Link to="#">Nyumaani</Link></li>
+                  <li><i className="bx bx-chevron-right"></i> <Link to="#">Nyumbani</Link></li>
                   <li><i className="bx bx-chevron-right"></i> <Link to="#">Kuhusu sisi</Link></li>
                   <li><i className="bx bx-chevron-right"></i> <Link to="#">Huduma zeu</Link></li>
                   <li><i className="bx bx-chevron-right"></i> <Link to="#">Fomu za kujiunga</Link></li>

@@ -1,8 +1,7 @@
-import { Card } from "react-bootstrap"
 
 function ContactScreen() {
   return (
-    <Card>
+    <div>
       <div className="container">
         <h2>Contact Us</h2>
         <p>Est dolorum ut non facere possimus quibusdam eligendi voluptatem. Quia id aut similique quia voluptas sit quaerat debitis. Rerum omnis ipsam aperiam consequatur laboriosam nemo harum praesentium. </p>
@@ -39,7 +38,7 @@ function ContactScreen() {
 
             <div className="col-lg-8 mt-5 mt-lg-0">
 
-              <form action="" method="post" role="form" className="php-email-form">
+              <form action="" method="post" className="php-email-form">
                 <div className="row">
                   <div className="col-md-6 form-group">
                     <input type="text" name="name" className="form-control" id="name" placeholder="Your Name" required />
@@ -66,7 +65,7 @@ function ContactScreen() {
           </div>
         </div>
       </section>
-    </Card>
+    </div>
   )
 }
 
