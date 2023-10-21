@@ -14,7 +14,7 @@ function Header() {
             <ul>
               <li><Link className="active" to="/">Home</Link></li>
               <li><Link to="/about">Kuhusu</Link></li>
-              <li><Link to="courses.html">Huduma</Link></li>
+              <li><Link to="/services">Huduma</Link></li>
               <li><Link to="events.html">Picha</Link></li>
               <li><Link to="pricing.html">Blogu</Link></li>
 

@@ -5,6 +5,7 @@ import Footer from './components/Footer';
 import HomeScreen from './screens/HomeScreen';
 import AboutScreen from './screens/AboutScreen';
 import ContactScreen from './screens/ContactScreen';
+import ServicesScreen from './screens/ServicesScreen';
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
         <Route index element={<HomeScreen />} />
         <Route path='/about' element={<AboutScreen />} />
         <Route path='/contact-us' element={<ContactScreen />} />
+        <Route path='/services' element={<ServicesScreen />} />
       </Routes>
       <Footer />
     </Router>
